@@ -19,15 +19,15 @@ Ajuste apenas a pasta aonde se encontram as subpastas com o CARs, identificada n
 ![SiCAR_AntesDepois](ScreenShots/SiCAR_AntesDepois.png)
 
 ### Fase 2 - CARs 'Somados'.py
-Já este script une todos os CARs Individuais em apenas uma base de dados (*geodatabase*).
+Já este *script* une todos os CARs Individuais em apenas uma base de dados (*geodatabase*).
 
 Ajuste apenas a pasta aonde se encontram as subpastas com o CARs, identificada no Script como ***# Variável de Input***.
 
 ![SiCAR_Agrupado](ScreenShots/SiCAR_Agrupado.png)
 
 ## Como "instalar" e usar?
-Fazer o *download* (ou cópia) do arquivo [Fase 1 - CARs Individuais.py](Scripts/Fase 1 - CARs Individuais.py) e executar.
-Caso queira unir os CARs individuais em uma mesma base de dados, fazer o mesmo para [Fase 2 - CARs 'Somados'.py](Scripts/Fase 2 - CARs 'Somados'.py).
+Fazer o *download* (ou cópia) do arquivo [Etapa_1_CARs_Individuais.py](Scripts/Etapa_1_CARs_Individuais.py) e executar.
+Caso queira unir os CARs individuais em uma mesma base de dados, fazer o mesmo para [Etapa_2_CARs_Somados.py](Scripts/Etapa_2_CARs_Somados.py).
 
 ## Pré-requisitos
 - ArcGIS instalado;
