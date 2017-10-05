@@ -7,6 +7,8 @@ Michel Metran
 Assistente Técnico do Ministério Público / GAEMA PCJ-Piracicaba
 Setembro de 2017
 
+Script elaborado para unir os CARs individuais em um só geodatabase.
+
 '''
 
 # -------------------------------------------------------------------------------------------------------
