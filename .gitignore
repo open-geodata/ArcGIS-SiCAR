@@ -1,9 +1,3 @@
-# Dados
-data/brutos*
-data/input/
-
-docs/
-
 # IDEs
 .vscode/
 .idea/
